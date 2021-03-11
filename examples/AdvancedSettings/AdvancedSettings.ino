@@ -9,7 +9,7 @@
 
 // include the library
 #include<BME280.h>
-BME bme;
+BME280 bme;
 
 void setup() {
   // initialize serial communication
